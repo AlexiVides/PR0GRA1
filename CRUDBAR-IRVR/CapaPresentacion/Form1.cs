@@ -66,7 +66,7 @@ namespace CapaPresentacion
             {
                 try
                 {
-                    objetoCN.ActProd(txtProd.Text, txtDesc.Text, txtPrec.Text, txtExis.Text, txtEsta.Text, idProducto);
+                    objetoCN.ActProd(txtProd.Text, txtDesc.Text, txtPrec.Text, txtExis.Text, txtEsta.Text, txtid.Text);
                     MessageBox.Show("Registro Se ha actualizado exitosamente");
                     LeerProds();
                     LimpiarForm();
@@ -90,12 +90,13 @@ namespace CapaPresentacion
             {
                 Editar = true;
 
+                txtid.Text = dataGridView1.CurrentRow.Cells["idProducto"].Value.ToString();
                 txtProd.Text = dataGridView1.CurrentRow.Cells["nomProd"].Value.ToString();
                 txtDesc.Text = dataGridView1.CurrentRow.Cells["descripcion"].Value.ToString();
                 txtPrec.Text = dataGridView1.CurrentRow.Cells["precio"].Value.ToString();
                 txtExis.Text = dataGridView1.CurrentRow.Cells["cantidad"].Value.ToString();
                 txtEsta.Text = dataGridView1.CurrentRow.Cells["estado"].Value.ToString();
-                idProducto = dataGridView1.CurrentRow.Cells["idProducto"].Value.ToString();
+                
 
             }
             else
@@ -111,7 +112,7 @@ namespace CapaPresentacion
         {
             if(dataGridView1.SelectedRows.Count > 0)
             {
-                idProducto ="idProducto".ToString();
+                idProducto = txtid.Text;
                 objetoCN.EliProd(idProducto);
                 MessageBox.Show("Eliminado correctamente");
                 LeerProds();

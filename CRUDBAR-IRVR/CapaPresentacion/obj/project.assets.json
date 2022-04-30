@@ -491,11 +491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
       "projectName": "CapaPresentacion",
-      "projectPath": "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
+      "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaPresentacion\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaPresentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -512,8 +512,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaNegocio\\CapaNegocio.csproj": {
-              "projectPath": "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaNegocio\\CapaNegocio.csproj"
+            "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaNegocio\\CapaNegocio.csproj": {
+              "projectPath": "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaNegocio\\CapaNegocio.csproj"
             }
           }
         }

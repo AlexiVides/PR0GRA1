@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OPsLnF+rZN91j1/QigTcB787MQc6hacWaTC+fvqvQUcy6WcO8FwoRlFtrSwXXf6pvixLdTXt6gDJZOprqeGjrQ==",
+  "dgSpecHash": "jb1s1m3x248Jh/0JhFrb2WgXXTscYMns5hHGjSFnlq2sUC9BEqraSxVcrZg/+HXkTN8eTNMGTEZ2HeFzWtQLqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexi\\Documents\\Ciclo III\\PROGRA I\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
+  "projectFilePath": "C:\\Users\\alexi\\Documents\\GitHub\\PR0GRA1\\CRUDBAR-IRVR\\CapaPresentacion\\CapaPresentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\alexi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
