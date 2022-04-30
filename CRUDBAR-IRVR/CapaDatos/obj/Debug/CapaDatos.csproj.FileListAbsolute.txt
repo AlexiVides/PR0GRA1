@@ -1,9 +1,0 @@
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\bin\Debug\CapaDatos.dll
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\bin\Debug\CapaDatos.pdb
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\obj\Debug\CapaDatos.dll
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\obj\Debug\CapaDatos.pdb
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\bin\Debug\System.Data.SqlClient.dll
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\bin\Debug\System.Data.SqlClient.xml
-C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
