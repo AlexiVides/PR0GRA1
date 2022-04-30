@@ -1,0 +1,56 @@
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Form1.resources
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Form1.resources
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CopyComplete
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\alexi\Documents\GitHub\PR0GRA1\CRUDBAR-IRVR\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
