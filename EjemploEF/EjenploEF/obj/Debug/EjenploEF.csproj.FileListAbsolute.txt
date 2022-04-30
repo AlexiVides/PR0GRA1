@@ -1,0 +1,13 @@
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EjenploEF.exe.config
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EjenploEF.exe
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EjenploEF.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EntityFramework.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EntityFramework.xml
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.csproj.CopyComplete
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.exe
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\EjenploEF\EjenploEF\obj\Debug\EjenploEF.pdb
